@@ -8,6 +8,19 @@ button {
     cursor: pointer;
 }
 
+.activeButton {
+    background-color: #12FB36;
+}
+
+.default {
+    background-color:#808080;
+}
+
+.nearMaxMass {
+    color:#FF0000;
+    font-weight: bold;
+}
+
 h3 {
     text-align: center;
 }
